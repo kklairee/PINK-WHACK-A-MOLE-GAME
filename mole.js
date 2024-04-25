@@ -14,7 +14,7 @@ window.onload = function(){
     setGame();
 }
 
-function setGame(difficulty="easy"){
+function setGame(difficulty="Easy"){
     
 
 
